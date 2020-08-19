@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/nuxt-server-link/compare/v1.0.0...v1.0.1) (2020-08-19)
+
+
+### Bug Fixes
+
+* fix ([0c2508b](https://github.com/dword-design/nuxt-server-link/commit/0c2508b75ff3db05dcbc1bea5b27493b379f856c))
+
 # 1.0.0 (2020-08-19)
 
 
