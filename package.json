@@ -23,7 +23,8 @@
     "@dword-design/vue-server-link": "^1.0.0"
   },
   "devDependencies": {
-    "@dword-design/base": "^6.24.2"
+    "@dword-design/base": "^6.24.2",
+    "vue": "^2.6.11"
   },
   "peerDependencies": {
     "vue": "^2.6.11"
