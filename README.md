@@ -64,7 +64,7 @@ $ yarn add @dword-design/nuxt-server-link
 <!-- LICENSE/ -->
 ## Contribute
 
-Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/nuxt-server-link/issues) or [pull request](https://github.com/dword-design/nuxt-server-link/pulls)! ⚙️
+Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/nuxt-server-link/issues) or a [pull request](https://github.com/dword-design/nuxt-server-link/pulls)! ⚙️
 
 ## Support
 
