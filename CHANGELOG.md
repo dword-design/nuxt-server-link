@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/dword-design/nuxt-server-link/compare/v1.0.7...v1.0.8) (2021-04-12)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#11](https://github.com/dword-design/nuxt-server-link/issues/11)) ([48d6081](https://github.com/dword-design/nuxt-server-link/commit/48d6081d2be1668edbb7cba60f11505d932d56ac))
+
 ## [1.0.7](https://github.com/dword-design/nuxt-server-link/compare/v1.0.6...v1.0.7) (2021-03-31)
 
 
