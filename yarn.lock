@@ -1196,12 +1196,10 @@
   dependencies:
     "@dword-design/functions" "^3.0.0"
 
-"@dword-design/vue-server-link@^1.0.0":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@dword-design/vue-server-link/-/vue-server-link-1.0.6.tgz#03107e96cc161db10e7b6f177be81f12730ba5a7"
-  integrity sha512-36kJkhHL1UOpdohz0rC2qEcl6F0TotgUjUo2Qn+UT0iip2geVQlVvn3eaO23CF4HcHDp2DjI2flsGJ3znEv3IQ==
-  dependencies:
-    "@dword-design/functions" "^3.0.0"
+"@dword-design/vue-server-link@^1.0.6":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@dword-design/vue-server-link/-/vue-server-link-1.0.7.tgz#8a3ba6057d682122f70d05a8b16a7beca0cc32e6"
+  integrity sha512-/I4+N5/TC/G8L+VrE8pHXjIaiTPbOgXHXK+w96R0fTVH4KPxsjtpjPR8wy+cTG6CWtWowukaSI0okwm4CjTUoA==
 
 "@eslint/eslintrc@^0.4.0":
   version "0.4.0"

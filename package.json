@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@dword-design/nuxt-push-plugins": "^1.0.2",
-    "@dword-design/vue-server-link": "^1.0.0"
+    "@dword-design/vue-server-link": "^1.0.6"
   },
   "devDependencies": {
     "@dword-design/base": "^7.0.0",
