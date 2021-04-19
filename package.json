@@ -20,7 +20,7 @@
     "test": "base test"
   },
   "dependencies": {
-    "@dword-design/nuxt-push-plugins": "^1.0.2",
+    "@dword-design/nuxt-push-plugins": "^1.0.13",
     "@dword-design/vue-server-link": "^1.0.0"
   },
   "devDependencies": {
