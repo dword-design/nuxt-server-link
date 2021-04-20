@@ -1,7 +1,7 @@
 {
   "name": "@dword-design/nuxt-server-link",
   "version": "1.0.9",
-  "description": "",
+  "description": null,
   "repository": "dword-design/nuxt-server-link",
   "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
@@ -32,5 +32,7 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "homepage": null,
+  "keywords": []
 }
