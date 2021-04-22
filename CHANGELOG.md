@@ -1,3 +1,11 @@
+## [1.0.11](https://github.com/dword-design/nuxt-server-link/compare/v1.0.10...v1.0.11) (2021-04-22)
+
+
+### Bug Fixes
+
+* update config files ([e28d065](https://github.com/dword-design/nuxt-server-link/commit/e28d06572bfb7077d381cce34a0b1fc28465f38b))
+* updated package.json[description] ([#20](https://github.com/dword-design/nuxt-server-link/issues/20)) ([026af6b](https://github.com/dword-design/nuxt-server-link/commit/026af6b8023af88841490c62b707a1a7b9c5d443))
+
 ## [1.0.10](https://github.com/dword-design/nuxt-server-link/compare/v1.0.9...v1.0.10) (2021-04-21)
 
 
