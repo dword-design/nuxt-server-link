@@ -29,6 +29,9 @@
   "peerDependencies": {
     "vue": "^2.6.11"
   },
+  "engines": {
+    "node": ">=12"
+  },
   "publishConfig": {
     "access": "public"
   }
