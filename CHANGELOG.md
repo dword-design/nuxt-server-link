@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/dword-design/nuxt-server-link/compare/v1.0.12...v2.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#24](https://github.com/dword-design/nuxt-server-link/issues/24)) ([927311d](https://github.com/dword-design/nuxt-server-link/commit/927311df38ba9b4de0387a3064e093d3d9cd1ab9))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.0.12](https://github.com/dword-design/nuxt-server-link/compare/v1.0.11...v1.0.12) (2021-04-28)
 
 
