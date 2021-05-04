@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@dword-design/vue-server-link": "^1.0.0",
-    "nuxt-push-plugins": "^1.0.16"
+    "nuxt-push-plugins": "^2.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^8.0.0",
