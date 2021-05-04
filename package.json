@@ -19,7 +19,7 @@
     "test": "base test"
   },
   "dependencies": {
-    "@dword-design/vue-server-link": "^1.0.0",
+    "@dword-design/vue-server-link": "^2.0.0",
     "nuxt-push-plugins": "^2.0.0"
   },
   "devDependencies": {
