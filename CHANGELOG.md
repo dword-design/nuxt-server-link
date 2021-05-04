@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/dword-design/nuxt-server-link/compare/v2.0.0...v2.0.1) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency nuxt-push-plugins to v2 ([#26](https://github.com/dword-design/nuxt-server-link/issues/26)) ([ba86893](https://github.com/dword-design/nuxt-server-link/commit/ba868935521560b202e37c862c9ffbdf14472049))
+
 # [2.0.0](https://github.com/dword-design/nuxt-server-link/compare/v1.0.12...v2.0.0) (2021-05-03)
 
 
