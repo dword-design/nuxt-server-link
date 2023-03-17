@@ -1361,9 +1361,9 @@
     tinycolor2 "^1.4.1"
 
 "@dword-design/vue-server-link@^2.0.0":
-  version "2.0.9"
-  resolved "https://registry.yarnpkg.com/@dword-design/vue-server-link/-/vue-server-link-2.0.9.tgz#158f76e70cdac2ed8b4233db1404d54f091ef855"
-  integrity sha512-FZeshiKfkJhE0ZvWLou4Sk4Ki1TfkE2+3yy99p8VaL2GZqb/MG/EfI3Rbs4Dy+BWm1wxL5X4uGgETrfnXDtv/w==
+  version "2.0.13"
+  resolved "https://registry.yarnpkg.com/@dword-design/vue-server-link/-/vue-server-link-2.0.13.tgz#14d4349578d5f7bc160d67816f155d172a518af9"
+  integrity sha512-nlrhRUUSHDfJjhZOtsuO+Q3lhEe4C9NBGQ0vouyhndI+YOFeVnCpKGLKqR6jHNfu7qe5QUvI0HkVoetOzDR9xA==
 
 "@endemolshinegroup/cosmiconfig-typescript-loader@^3.0.2":
   version "3.0.2"
