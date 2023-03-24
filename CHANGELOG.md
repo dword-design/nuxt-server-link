@@ -1,3 +1,10 @@
+## [2.0.8](https://github.com/dword-design/nuxt-server-link/compare/v2.0.7...v2.0.8) (2023-03-24)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/vue-server-link to v2.0.13 ([37c885f](https://github.com/dword-design/nuxt-server-link/commit/37c885f475044ef2e30c5b1cd716d66d099af155))
+
 ## [2.0.7](https://github.com/dword-design/nuxt-server-link/compare/v2.0.6...v2.0.7) (2022-01-04)
 
 
