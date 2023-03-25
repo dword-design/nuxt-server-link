@@ -1,3 +1,10 @@
+## [2.0.9](https://github.com/dword-design/nuxt-server-link/compare/v2.0.8...v2.0.9) (2023-03-25)
+
+
+### Bug Fixes
+
+* update dependency vue to v2.7.14 ([b0abcdf](https://github.com/dword-design/nuxt-server-link/commit/b0abcdfb4fbe5e3c071e730171cb0371a45df801))
+
 ## [2.0.8](https://github.com/dword-design/nuxt-server-link/compare/v2.0.7...v2.0.8) (2023-03-24)
 
 
